@@ -4,7 +4,7 @@ export default function Document() {
   const meta = {
     title: 'Ata Tolga | Whattyu',
     description: 'My site',
-    image: 'https://assets.vercel.com/image/upload/q_auto/front/vercel/dps.png'
+    image: 'https://raw.githubusercontent.com/whattyu/nextjs-blog-test/main/public/profile.png'
   }
 
   return (
