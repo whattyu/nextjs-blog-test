@@ -1,5 +1,5 @@
 ---
-title: Mardin
+title: Mardin (tr)
 date: 2022/1/16
 description: My ideas about Mardin.
 tag: Blog
