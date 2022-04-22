@@ -3,7 +3,7 @@ title: Mardin
 date: 2022/1/16
 description: My ideas about Mardin.
 tag: Blog
-author: Me
+author: Whattyu
 ---
 
 ## Daha doğrusu benim Mardin ve içindekiler hakkında (kötü) **düşüncelerim** 🙂
