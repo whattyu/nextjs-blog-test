@@ -1,5 +1,5 @@
 ---
-title: Markdown Examples
+title: Markdown Examples (en)
 date: 2022/4/21
 description: View examples of all possible Markdown options.
 tag: web development
@@ -84,7 +84,6 @@ export default function Nextra({ Component, pageProps }) {
 ## Links
 
 - [Next.js](https://nextjs.org)
-- [Nextra](https://nextra.vercel.app/)
 - [Vercel](http://vercel.com)
 
 ### Footnotes
