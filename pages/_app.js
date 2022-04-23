@@ -20,6 +20,7 @@ export default function Nextra({ Component, pageProps }) {
           type="font/woff2"
           crossOrigin="anonymous"
         />
+        <title>Ata Tolga | Whattyu</title>
       </Head>
       <Component {...pageProps} />
     </>
