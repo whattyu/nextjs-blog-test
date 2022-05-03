@@ -21,6 +21,7 @@ export default function Nextra({ Component, pageProps }) {
           crossOrigin="anonymous"
         />
         <title>Ata Tolga | Whattyu</title>
+        <link rel="icon" href="https://raw.githubusercontent.com/whattyu/blog/main/public/images/profile.png" />
       </Head>
       <Component {...pageProps} />
     </>
