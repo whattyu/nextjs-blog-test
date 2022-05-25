@@ -11,7 +11,7 @@ import Image from 'next/image'
 Open Steam and click here ⬎
 
 <Image
-  src="https://prnt.sc/mF65klcoK1L2"
+  src="https://i.imgur.com/mkVZcSC.png"
   alt="Photo"
   width={1250}
   height={400}
