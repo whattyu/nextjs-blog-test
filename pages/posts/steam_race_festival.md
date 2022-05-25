@@ -13,8 +13,6 @@ Open Steam and click here ⬎
 <Image
   src="https://i.imgur.com/mkVZcSC.png"
   alt="Photo"
-  width={1250}
-  height={400}
   priority
   className="next-image"
 />
